@@ -71,7 +71,6 @@ Double major: Information Systems Science (e-business) & Marketing (consumer beh
 - Business Design · Technology Commercialization · Go-to-Market Strategy  
 - Open Innovation · International Business · Service & Product Development  
 - Leadership · Board Governance · Start-up Consulting  
-- Tools: Figma · Firebase · Lovable · Cursor · Adobe Creative Cloud  
 
 ---
 
@@ -79,6 +78,18 @@ Double major: Information Systems Science (e-business) & Marketing (consumer beh
 - Commercial Concepting  
 - Business Model Scenario Building  
 - Rapid Prototyping (vibe coding)  
+
+---
+## Tools & Readiness  
+
+Throughout my career, I have applied the latest and most effective technologies to strengthen commercialization and business design delivery.  
+
+- **Design & Interfaces:** Figma, Adobe Creative Cloud  
+- **Prototyping & Cloud:** Firebase, Google Cloud, Lovable, Cursor, and other agentic coding environments  
+- **AI-driven work:** Growth simulation, tailored engines, scenario analysis, proof-of-concepts with LLMs  
+- **Execution support:** Cost accounting, financial modeling, project management  
+
+Today, my work is strongly **AI-assisted**—but always grounded in robust cost models and execution planning. This ensures my contribution never stops at concepts: I deliver solutions that are **decision-ready, financially sound, and can be seamlessly advanced into production planning and execution**.
 
 ---
 
